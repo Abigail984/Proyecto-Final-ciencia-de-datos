@@ -1,1 +1,2 @@
 # Proyecto-Final-ciencia-de-datos
+Este proyecto tiene branches, de la cual en la parte de documentacion contiene el titulo del proyecto, los objetivos, justificacion, marco teorico, etc. En la parte de procedimiento contiene tal cual la metodologia del pproyecto, en el branch  de codigo tiene como contenido como tal el codigo con la que se hicieron las graficas, y en el branch de graficas se encuentras las graficas que se elboraron en Tableau y python
